@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images/accept.svg</file>
+        <file>images/belt.svg</file>
+        <file>images/faq.png</file>
+    </qresource>
+</RCC>

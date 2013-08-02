@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2013-08-01T16:02:22
+# Project created by QtCreator 2013-08-02T11:51:25
 #
 #-------------------------------------------------
 
@@ -8,7 +8,7 @@ QT       += core
 
 QT       -= gui
 
-TARGET = BinIO2
+TARGET = Variant
 CONFIG   += console
 CONFIG   -= app_bundle
 
@@ -16,8 +16,7 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp \
-    person.cpp
+    myclass.cpp
 
 HEADERS += \
-    person.h \
-    Overload.h
+    myclass.h
